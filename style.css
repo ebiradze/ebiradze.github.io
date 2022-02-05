@@ -16,6 +16,7 @@ body {
 }
 
 .shrimp {
+  margin: -2% -2%;
   filter: grayscale(90%)
 }
 
