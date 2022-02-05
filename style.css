@@ -16,5 +16,10 @@ body {
 }
 
 .shrimp {
-  margin: -3% -3%;
+  margin: -2% -2%;
+  filter: grayscale(90%)
+}
+
+.images {
+  filter: grayscale(90%)
 }
